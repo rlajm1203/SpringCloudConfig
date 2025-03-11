@@ -8,3 +8,5 @@ spring:
           uri: https://github.com/rlajm1203/SpringCloudConfig.git
           search-paths: file/**
           default-label: main
+server:
+  port: 8888
